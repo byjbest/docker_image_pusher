@@ -18,3 +18,5 @@ jellyfin/jellyfin:latest
 library/mysql:latest
 #qbt下载器
 linuxserver/qbittorrent:latest
+#百度网盘docker版
+johngong/baidunetdisk
