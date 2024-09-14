@@ -22,3 +22,5 @@ linuxserver/qbittorrent:latest
 johngong/baidunetdisk
 #节点小宝
 ionewu/owjdxb
+#Redis
+redis
