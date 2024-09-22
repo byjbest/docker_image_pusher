@@ -25,3 +25,5 @@ johngong/baidunetdisk
 ionewu/owjdxb
 #Redis
 redis
+#Java17
+openjdk:17
