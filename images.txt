@@ -27,3 +27,5 @@ ionewu/owjdxb
 redis
 #Java17
 openjdk:17
+#RabbitMQ
+rabbitmq:management
