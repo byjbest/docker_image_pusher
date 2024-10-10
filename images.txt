@@ -29,3 +29,5 @@ library/redis
 openjdk:17
 #RabbitMQ
 rabbitmq:management
+#阿里的NACOS
+nacos/nacos-server
