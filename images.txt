@@ -31,3 +31,5 @@ openjdk:17
 rabbitmq:management
 #阿里的NACOS
 nacos/nacos-server
+# 迅雷
+cnk3x/xunlei:latest
